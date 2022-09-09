@@ -34,3 +34,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      # Prints README file
+      - name: Print README.md ( {{ github.ref }} )
+        run: cat README.md
