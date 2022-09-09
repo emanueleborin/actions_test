@@ -2,4 +2,4 @@
 
 Test gh actions
 
-green version 2
+blue version 1
